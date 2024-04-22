@@ -1,0 +1,5 @@
+Title: Thesis
+Date: 2024-04-10
+Category: Thesis
+
+The collapse of the Soviet Union in 1991 was pushed by a combination of economic stagnation, political reforms, and a surge of nationalist movements within its republics. This huge **change** not only signaled the end of the Cold War but also had profound political, social, economic, and cultural effects on the development of the late 20th century. Politically, it resulted in the emergence of new independent states from the former Soviet territories and a shift in power dynamics, leading to the United States’ unchallenged superpower status. Socially and culturally, the collapse promoted a transition from a controlled society to one seeking identity and freedom. Economically, it led to the liberalization of markets and integration of former Soviet states into the global economy.
