@@ -63,8 +63,15 @@ Integration into the global economy was a significant step for these new nations
         </section><!-- /#extras -->
 
         <footer id="contentinfo" class="body">
-
-        </footer><!-- /#contentinfo -->
+                <p id="wordCount">Total words: </p>
+            </footer>
+<script>
+window.onload = function() {
+    var bodyText = document.body.innerText;
+    var wordCount = bodyText.split(/\s+/).length;
+    document.getElementById('wordCount').innerText += wordCount;
+}
+</script>
 
 </body>
 </html>
