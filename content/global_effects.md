@@ -1,6 +1,6 @@
 Title: Global Effects
 Date: 2024-04-17
-Category: Global Effects
+Category: Effects
 
 ## Political Changes
 The end of the Cold War marked a significant shift in global power dynamics, with the United States emerging as the sole superpower.
