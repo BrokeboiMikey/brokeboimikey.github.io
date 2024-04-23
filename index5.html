@@ -68,13 +68,13 @@ Also the Geopolitical tensions shifted as new alliances and relationships …</p
 
         <footer id="contentinfo" class="body">
         
-                <p id="wordCount">Current page word count:  </p>
+                <p id="wordCount">Current page word count:</p>
         </footer>
         <script>
                 window.onload = function () {
                         var bodyText = document.body.innerText;
                         var wordCount = bodyText.split(/\s+/).length;
-                        document.getElementById('wordCount').innerText += wordCount;
+                        document.getElementById('wordCount').innerText += ' ' + wordCount;
                 }
         </script>
 
